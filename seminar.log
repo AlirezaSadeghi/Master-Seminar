@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2016.12.31)  20 JAN 2017 21:18
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2016.12.31)  22 JAN 2017 11:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1645,12 +1645,14 @@ File: images/hrnn.png Graphic file (type QTm)
 Missing character: There is no ‌ in font pxr!
 Missing character: There is no ‌ in font pxr!
 Missing character: There is no ‌ in font pxr!
- [10]) (./Seminar_ProposedMethod.tex)
-(./Seminar_Experiments.tex) (./Seminar_FutureWorks.tex
+ [10]) (./Seminar_ProposedMethod.tex
+[11]
+File: images/proposed.jpg Graphic file (type QTm)
+ <use  "images/proposed.jpg" >) (./Seminar_FutureWorks.tex
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./Seminar_Conclusion.tex) [11] (./seminar.bbl
+) (./Seminar_Conclusion.tex) [12] (./seminar.bbl
 Missing character: There is no ‏ in font Ubuntu/OT:script=latn;language=DFLT;ma
 pping=tex-text;!
 Missing character: There is no ‏ in font Ubuntu/OT:script=latn;language=DFLT;ma
@@ -1689,7 +1691,6 @@ Missing character: There is no ‏ in font Ubuntu/OT:script=latn;language=DFLT;m
 pping=tex-text;!
 Missing character: There is no ‏ in font Ubuntu/OT:script=latn;language=DFLT;ma
 pping=tex-text;!
- [12]
 Missing character: There is no ‏ in font Ubuntu/OT:script=latn;language=DFLT;ma
 pping=tex-text;!
 Missing character: There is no ‏ in font Ubuntu/OT:script=latn;language=DFLT;ma
@@ -1698,6 +1699,7 @@ Missing character: There is no ‏ in font Ubuntu/OT:script=latn;language=DFLT;m
 pping=tex-text;!
 Missing character: There is no ‏ in font Ubuntu/OT:script=latn;language=DFLT;ma
 pping=tex-text;!
+ [13]
 Missing character: There is no ‏ in font Ubuntu/OT:script=latn;language=DFLT;ma
 pping=tex-text;!
 Missing character: There is no ‏ in font Ubuntu/OT:script=latn;language=DFLT;ma
@@ -1736,6 +1738,12 @@ Missing character: There is no ‏ in font Ubuntu/OT:script=latn;language=DFLT;m
 pping=tex-text;!
 Missing character: There is no ‏ in font Ubuntu/OT:script=latn;language=DFLT;ma
 pping=tex-text;!
+Missing character: There is no ‏ in font Ubuntu/OT:script=latn;language=DFLT;ma
+pping=tex-text;!
+Missing character: There is no ‏ in font Ubuntu Italic/OT:script=latn;language=
+DFLT;mapping=tex-text;!
+Missing character: There is no ‏ in font Ubuntu Italic/OT:script=latn;language=
+DFLT;mapping=tex-text;!
 Missing character: There is no ‏ in font Ubuntu/OT:script=latn;language=DFLT;ma
 pping=tex-text;!
 )
@@ -1756,10 +1764,10 @@ LaTeX Font Info:    Font shape `EU1/XBNiloofar(1)/m/it' will be
 (Font)              scaled to size 5.0pt on input line 2.
 LaTeX Font Info:    Font shape `EU1/XBNiloofar(5)/m/n' will be
 (Font)              scaled to size 6.0pt on input line 2.
- [13])
+ [14])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 52.
 
-[14]
+[15]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
  (./seminar.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 52.
@@ -1767,12 +1775,12 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 52.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
  ) 
 Here is how much of TeX's memory you used:
- 26128 strings out of 495550
- 470243 string characters out of 6186652
+ 26127 strings out of 495550
+ 470208 string characters out of 6186652
  531493 words of memory out of 5000000
- 29001 multiletter control sequences out of 15000+600000
- 19826 words of font info for 123 fonts, out of 8000000 for 9000
+ 29000 multiletter control sequences out of 15000+600000
+ 19834 words of font info for 124 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  50i,10n,77p,10440b,544s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on seminar.pdf (15 pages).
+Output written on seminar.pdf (16 pages).

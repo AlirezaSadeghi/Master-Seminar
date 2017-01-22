@@ -162,4 +162,12 @@ L.~A. Hendricks, S.~Venugopalan, M.~Rohrbach, R.~Mooney, K.~Saenko, and
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{weston2014memory}
+J.~Weston, S.~Chopra, and A.~Bordes, ``Memory networks,'' {\em arXiv preprint
+  arXiv:1410.3916}, 2014.
+
+\end{LTRbibitems}
+
 \end{thebibliography}

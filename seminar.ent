@@ -181,33 +181,45 @@ macro:->Spatial
 Attention
 \@endanenote 
 \@doanenote {44}
+macro:->Embedding
+\@endanenote 
+\@doanenote {45}
 macro:->Rectified
 Linear
 Unit
 \@endanenote 
-\@doanenote {45}
+\@doanenote {46}
 macro:->Attention‌
 Layers
 \@endanenote 
-\@doanenote {46}
+\@doanenote {47}
 macro:->Patch
 \@endanenote 
-\@doanenote {47}
+\@doanenote {48}
 macro:->Embedding
 Average
 Layer
 \@endanenote 
-\@doanenote {48}
+\@doanenote {49}
 macro:->Sentence
 Embedding
 \@endanenote 
-\@doanenote {49}
+\@doanenote {50}
 macro:->End
 Of
 Sentence,‌
 EOS
 \@endanenote 
-\@doanenote {50}
+\@doanenote {51}
 macro:->Transfer
 Learning
+\@endanenote 
+\@doanenote {52}
+macro:->Bi-directional
+LSTM,
+BiLSTM
+\@endanenote 
+\@doanenote {53}
+macro:->Memory‌‌
+Networks
 \@endanenote 
